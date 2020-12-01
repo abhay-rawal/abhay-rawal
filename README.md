@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay-rawal&label=Profile%20views&color=0e75b6&style=flat" alt="abhay-rawal" /> </p>
 
-- 🌱 I’m currently learning **Flutter,React,.Net Core**
+- 🌱 I’m currently learning **Flutter,.Net Core**
 
 - 💬 Ask me about **.Net MVC, Angularjs ,Sql**
 
