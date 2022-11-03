@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay-rawal&label=Profile%20views&color=0e75b6&style=flat" alt="abhay-rawal" /> </p>
 
-- 🌱 I’m currently learning .Net Core**
+- 🌱 I’m currently learning SpringBoot**
 
 - 📫 How to reach me **avyrwl1@gmail.com**
 
-- ⚡ Fun fact **I try everything that makes me curious.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
